@@ -1,0 +1,25 @@
+.productCard img {
+    width: 300px;
+    border-radius: 15px;
+}
+
+.productCard {
+    border-radius: 15px;
+    background-color: aliceblue;
+    text-align: center;
+    margin: 10px;
+}
+
+.ProductBuy {
+    padding: 5px 25px;
+    border-radius: 15px;
+    background-color: black;
+    color: aliceblue;
+    font-size: larger;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.ProductBuy:hover {
+    background-color: rgb(238, 58, 27);
+}
